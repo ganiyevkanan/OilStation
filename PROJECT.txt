@@ -1,0 +1,29 @@
+1.Guest(her bir sehifede exit olsun)
+	1.1 Oil Station
+		1.1.1 Benzin Novleri sechilsin
+                      AI-92 - 1.0 azn
+	              AI-95 - 1.45
+                      AI-98 - 1.6
+                      Dizel - 0.8
+                     1.1.1.1  With liter or money ?(emeliyyat sonda pdf fayla yazilsin)
+        1.2 Cafe
+		1.2.1 Fast Food sechilsin
+                      Hamburger 5.4
+                      Free      3.8
+                      Cola      1.5
+                      Red-bull  4.8
+                      sechim haqqi her defe elave oluna biler               
+2.Admin
+
+1.1 Username , Password
+1.1.1 Welcome Admin Page
+      1.Add UserAdmin
+      2.Add Petrol
+      3.Delete Petrol
+      4.Add fast Food
+      5.Delete fast food
+      4.Exit
+#Butun meulumatlar hamisi fayldan gelsin 
+#Pdf e check chixsin
+YA DICTIONARY ISTIFADE EDIN YA DA CLAS VE OBYEKTLERDEN
+

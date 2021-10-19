@@ -1,0 +1,5 @@
+1,Hamburger,4.8,2000
+2,Cola,1,157
+3,Red-Bull,4.8,52
+5,Bread,0.5,93
+6,Sugar,2.2,525
